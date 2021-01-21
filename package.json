@@ -19,7 +19,7 @@
     "minimist": "1.2.5",
     "ps-tree": "1.2.0",
     "request": "2.88.2",
-    "socket.io": "2.3.0",
+    "socket.io": "2.4.0",
     "tar-fs": "2.0.0",
     "zlib": "1.0.5"
   },
